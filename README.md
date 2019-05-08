@@ -1,0 +1,1 @@
+All config located in config.php
